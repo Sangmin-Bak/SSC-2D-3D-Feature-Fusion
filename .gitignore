@@ -1,0 +1,17 @@
+auxiliary
+config
+
+visualize_sample_images
+voxformer_query_vis
+ckpts/
+result/
+.vscode/
+kitti/
+
+*.out
+*.ini
+*.npy
+*.bin
+*.label
+*.pyc
+*.query
